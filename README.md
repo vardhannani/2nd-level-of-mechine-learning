@@ -1,0 +1,3 @@
+# 2nd-level-of-mechine-learning
+this project is based LinearRegression  algorithm for the concept of salary prediction . the prediction was good it's nearly to the 80%
+and it contains basic MECHINELEARNING frame works like pandas,matplotlib,numpy,scikitlearn,etc....
